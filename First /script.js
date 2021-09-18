@@ -16,7 +16,7 @@
 
 // Examples to Simple Data types 18-22
 let number = 16; // Data type Number
-let string = "Asadbek"; // Data type String " " ' ' ` `
+let string = "Asadbek"; // Data type String " " ' ' ` ` :> + concat() ${}
 let boolean = true; // Data type Boolean
 let undefined; // Data type Undefined
 let symbol = "{}|?><)(&%$"; // Data type Symbol
