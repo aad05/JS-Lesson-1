@@ -1,0 +1,12 @@
+.out-1 {
+    width: 100px;
+    height: 100px;
+    background: red;
+}
+.section {
+    margin: 20px 0;
+    padding: 20px ;
+    border: 1px dashed #000;
+    background: red;
+    color: #fff;
+}
